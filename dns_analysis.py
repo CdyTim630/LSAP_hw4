@@ -181,13 +181,13 @@ def main():
         'google.com',
         'youtube.com',
         'facebook.com',
-        'amazon.com',
-        'wikipedia.org',
-        'twitter.com',
-        'instagram.com',
+        'cool.ntu.edu.tw',
         'linkedin.com',
-        'netflix.com',
-        'github.com'
+        'claude.ai',
+        'github.com',
+        'ntu.edu.tw',
+        'ntu.im',
+        'chatgpt.com'
     ]
     
     print("DNS Analysis Tool")
